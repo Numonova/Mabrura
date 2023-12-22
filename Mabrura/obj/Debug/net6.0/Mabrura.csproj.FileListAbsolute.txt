@@ -1,0 +1,14 @@
+D:\Projects\Mabrura\Mabrura\bin\Debug\net6.0\Mabrura.exe
+D:\Projects\Mabrura\Mabrura\bin\Debug\net6.0\Mabrura.deps.json
+D:\Projects\Mabrura\Mabrura\bin\Debug\net6.0\Mabrura.runtimeconfig.json
+D:\Projects\Mabrura\Mabrura\bin\Debug\net6.0\Mabrura.dll
+D:\Projects\Mabrura\Mabrura\bin\Debug\net6.0\Mabrura.pdb
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\Mabrura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\Mabrura.AssemblyInfoInputs.cache
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\Mabrura.AssemblyInfo.cs
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\Mabrura.csproj.CoreCompileInputs.cache
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\Mabrura.dll
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\refint\Mabrura.dll
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\Mabrura.pdb
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\Mabrura.genruntimeconfig.cache
+D:\Projects\Mabrura\Mabrura\obj\Debug\net6.0\ref\Mabrura.dll
